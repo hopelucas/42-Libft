@@ -14,7 +14,13 @@ To rebuild the standard C library using basic functions.
 
 ## Method
 ### Planning
+### Testing
+
+Using ```make``` in the tester file to create the .o files. On compilation, you can use fclean to clean the .o files and .a file for submission.
 ### Testers Used
+
+https://github.com/Tripouille/libftTester
+
 
 ## Result
 
