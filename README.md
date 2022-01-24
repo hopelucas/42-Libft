@@ -12,6 +12,10 @@ To rebuild the standard C library using basic functions.
 - Makefile
 - libft.h
 
+## Method
+### Planning
+### Testers Used
+
 ## Result
 
 I scored 125/100 and passed all 3 testers, no memory overflows and all files protected.
